@@ -9,8 +9,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-## 技术栈 Github 统计
-
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=heqihang&show_icons=true">
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
