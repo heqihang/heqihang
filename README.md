@@ -1,6 +1,6 @@
 ## 大家好！ 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=heqihang&show_icons=true">
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=heqihang&show_icons=true"> -->
 
 - 🔭 出生在辽宁抚顺
 - 🌱 工作在辽宁沈阳
@@ -21,12 +21,10 @@
 
 [![heqihang's github stats](https://github-readme-stats.vercel.app/api?username=heqihang&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/heqihang/github-readme-stats)
 
+<p align="right"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heqihang&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/heqihang/github-readme-stats) </p>
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ⭐️ From [heqihang](http://www.github.com/heqihang)
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heqihang&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/heqihang/github-readme-stats)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
