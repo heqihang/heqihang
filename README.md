@@ -32,6 +32,14 @@
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=for-the-badge&logo=Vue.js)
+![Node](https://img.shields.io/badge/-NodeJS-%23F05032?style=for-the-badge&logo=Node.js&logoColor=%23ffffff)
+![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=for-the-badge&logo=webpack)
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### ✨ 访客 
@@ -41,6 +49,8 @@
 ### 📊 统计
 
 [![heqihang's github stats](https://github-readme-stats.vercel.app/api?username=heqihang&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/heqihang/github-readme-stats)
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=heqihang&show_icons=true">
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
