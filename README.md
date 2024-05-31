@@ -9,10 +9,6 @@
 - 😄 擅长纸牌魔术，希望可以成为纸牌魔术大师
 - ⚡ 谢谢你的观看，祝你身体健康
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### 技术栈
-
 <!-- <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
@@ -26,13 +22,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=for-the-badge&logo=Vue.js)
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### ✨ 访客 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heqihang" alt="heqihang" /> </p>
-
-### 📊 统计
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=heqihang&show_icons=true"> -->
 
