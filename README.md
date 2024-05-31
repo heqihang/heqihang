@@ -9,6 +9,8 @@
 - 😄 擅长纸牌魔术，希望可以成为纸牌魔术大师
 - ⚡ 谢谢你的观看，祝你身体健康
 
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=heqihang&show_icons=true">
 <!-- <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
@@ -22,12 +24,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=for-the-badge&logo=Vue.js)
 
-<span align="right"> <img src="https://komarev.com/ghpvc/?username=heqihang" alt="heqihang" /> </span>
+<img src="https://komarev.com/ghpvc/?username=heqihang" alt="heqihang" />  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heqihang&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/heqihang/github-readme-stats)
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=heqihang&show_icons=true"> -->
-
-[![heqihang's github stats](https://github-readme-stats.vercel.app/api?username=heqihang&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/heqihang/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heqihang&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/heqihang/github-readme-stats)
+<!-- [![heqihang's github stats](https://github-readme-stats.vercel.app/api?username=heqihang&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/heqihang/github-readme-stats) -->
 
 <!-- ⭐️ 请关注[heqihang](http://www.github.com/heqihang)，您的支持是我最大的动力！ -->
