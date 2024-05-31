@@ -22,7 +22,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=for-the-badge&logo=Vue.js)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=heqihang" alt="heqihang" /> </p>
+<span align="right"> <img src="https://komarev.com/ghpvc/?username=heqihang" alt="heqihang" /> </span>
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=heqihang&show_icons=true"> -->
 
