@@ -2,14 +2,14 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=heqihang&show_icons=true"> 
 
-- 🔭 出生在辽宁抚顺
-- 🌱 工作在辽宁沈阳
-- 👯 一个废物前端，只会混吃等死
-- 🤔 不擅长任何前端技术及后端技术
-- 💬 喜欢看体育比赛，但不喜欢动
-- 📫 曼联/马刺/法拉利/辽宁男篮/英格兰男足/中国各类国家队忠实队迷
-- 😄 擅长纸牌魔术，希望可以成为纸牌魔术大师
-- ⚡ 谢谢你的观看，祝你身体健康
+- 🔭 出生在辽宁抚顺，工作在辽宁沈阳。
+- 🌱 一个废物前端，并且也学不会后端。
+- 👯 游泳、羽毛球、台球，这些都不太擅长。
+- 🤔 三阶魔方正往sub20努力，你说他们sub5都是怎么拧的呢。
+- 💬 擅长纸牌魔术，希望可以成为纸牌魔术大师。
+- 📫 天天想着出去玩，可惜没什么钱。
+- 😄 这么一看我爱好还挺多，呵呵呵。
+- ⚡ 谢谢你的观看，祝你身体健康。
 
 <!--
 [![heqihang's github stats](https://github-readme-stats.vercel.app/api?username=heqihang&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/heqihang/github-readme-stats)
